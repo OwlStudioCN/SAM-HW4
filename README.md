@@ -1,4 +1,4 @@
-bootstrap + React.js框架，
+Bootstrap + React.js + React-Router 
 实现“自适应网页动图演示”中的界面效果，
 其中包括，
 - 左边可伸缩的下拉菜单
