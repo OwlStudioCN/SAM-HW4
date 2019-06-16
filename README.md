@@ -7,6 +7,13 @@ Bootstrap + React.js + React-Router
 - 右上方可独立变化的登陆区，
 - 此外，网页中的部分元素如table，可以实现按照屏幕大小的适配。
 
+# Installation
+
+```bash
+npm i -g yarn
+yarn install
+```
+
 # Running
 
 ### `npm start` or `yarn start`
